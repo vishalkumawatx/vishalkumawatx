@@ -15,4 +15,6 @@ A passionate frontend and backend developer from India<br>
 ---
 [![](https://komarev.com/ghpvc/?username=vishalkumawatx&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
