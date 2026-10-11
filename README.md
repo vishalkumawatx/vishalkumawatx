@@ -1,20 +1,106 @@
-# Hi !!, I'm Vishal Kumawat
-A passionate frontend and backend developer from India<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalkumawatx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xarvis320@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vishalkumawatx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=vishalkumawatx&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vishalkumawatx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=vishalkumawatx&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Profile setup: publish this file as README.md in the public vishalkumawatx/vishalkumawatx repository. Copy logo.png and resume.pdf into that repository's root as well. -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<img src="./logo.png" width="190" alt="Vishal Kumawat" />
+
+# Hey, I'm Vishal Kumawat 👋
+
+### Web Developer · Python Programmer · Creative Builder
+
+Building thoughtful web experiences. Exploring Python, automation, and AI.
+
+**📍 Jaipur, Rajasthan, India**
+
+[GitHub](https://github.com/vishalkumawatx) · [LinkedIn](https://www.linkedin.com/in/vishalkumawatx) · [Email](mailto:vishal@vishx.me) · [Résumé](./resume.pdf)
+
+</div>
+
+---
+
+## 👨‍💻 A little about me
+
+I'm a **Computer Science student at Poornima University (2024–2027)** with a focus on web development and Python programming. I enjoy turning ideas into practical applications, combining clean interfaces with useful functionality.
+
+- **Building:** responsive websites, full-stack applications, and interactive interfaces.
+- **Exploring:** generative AI, prompt engineering, and AI-assisted workflows.
+- **Interested in:** automation, creative technology, and tools that simplify everyday work.
+- **Learning by doing:** one project, experiment, and improvement at a time.
+
+## 🧰 My toolbox
+
+| Area | Technologies & interests |
+| :--- | :--- |
+| **Languages** | Python · JavaScript · SQL · HTML · CSS |
+| **Frontend projects** | React · TypeScript · Vite · Tailwind CSS |
+| **Backend & databases** | Node.js · Express.js · MongoDB |
+| **Motion & interaction** | GSAP · Framer Motion |
+| **Developer tools** | Git · GitHub |
+| **AI & experimentation** | Generative AI · Prompt Engineering · AI Tools |
+
+## 🚀 Featured projects
+
+### ✦ [Portfolio](https://github.com/vishalkumawatx/Portfolio)
+A personal showcase of frontend development, animation, interactive UI, and creative web experiences.
+
+**Focus:** responsive design · motion · personal branding
+
+### ✦ [TaskManager](https://github.com/vishalkumawatx/TaskManager)
+A full-stack MERN task management application with authentication, CRUD functionality, REST APIs, and a responsive interface.
+
+**Stack:** MongoDB · Express.js · React · Node.js · Tailwind CSS
+
+### ✦ [CareerFlow](https://github.com/vishalkumawatx/Career-Flow)
+A job and internship application tracker with authentication, application management, and profile customization.
+
+**Stack:** React · Node.js · Express.js · MongoDB
+
+### ✦ [ImagePro](https://github.com/vishalkumawatx/ImagePro)
+An AI-powered image processing platform for background removal, image enhancement, upscaling, and PDF conversion.
+
+**Focus:** AI · image processing · web development
+
+<div align="center">
+
+[Explore more repositories →](https://github.com/vishalkumawatx?tab=repositories)
+
+</div>
+
+---
+
+## 📚 Learning & certifications
+
+<details>
+<summary><strong>Explore my learning journey</strong></summary>
+
+<br />
+
+| Certification | Provider |
+| :--- | :--- |
+| Introduction to Generative AI | SkillUp Online |
+| Introduction to Generative AI Studio | Simplilearn |
+| [Claude Code in Action](https://verify.skilljar.com/c/gwujx7t9tz6h) | Anthropic |
+| Python for Data Science — 180 hours | Reliance Foundation |
+| Python Programming | Reliance Foundation |
+| [Introduction to JavaScript I](https://learn.saylor.org/pluginfile.php/1/tool_certificate/issues/1773494867/6110881426VK.pdf) | Saylor University |
+| Front-end Web Development | Reliance Foundation Skilling Academy |
+| Communication Skills | TCS iON |
+
+</details>
+
+## 🤝 Let's connect
+
+Interested in web development, Python, or creative technology? Let's exchange ideas and build something useful.
+
+- **Email:** [vishal@vishx.me](mailto:vishal@vishx.me)
+- **LinkedIn:** [vishalkumawatx](https://www.linkedin.com/in/vishalkumawatx)
+- **GitHub:** [@vishalkumawatx](https://github.com/vishalkumawatx)
+- **Résumé:** [View PDF](./resume.pdf)
+
+---
+
+<div align="center">
+
+**Keep learning. Keep building. Make it useful.**
+
 </div>
