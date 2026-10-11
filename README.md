@@ -1,6 +1,4 @@
-<!-- Publish as README.md in the public vishalkumawatx/vishalkumawatx repository. -->
-
-# Hi, I'm Vishal 👋
+# Hi, I'm Vishal 
 
 **Web Developer · Python Programmer · Computer Science Student**
 
